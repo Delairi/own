@@ -1,0 +1,19 @@
+#yel{
+    background-image:url('/src/images/yel.png');
+}
+#anota{
+    background-image:url('/src/images/anota.png');
+}
+#cel{
+    background-image:url('/src/images/cell.png');
+    width:5em;
+    
+}
+@media only screen and (max-width:800px){
+    #cel{
+        width: 30vw;
+    }
+}
+#prime{
+    background-image:url('/src/images/prime.png');
+}
